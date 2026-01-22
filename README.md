@@ -26,13 +26,7 @@ Antes de começar, você precisa ter instalado:
 
 ### Passo 1: Obtendo o Código
 
-#### Opção A: Via Lovable (Recomendado)
-1. Acesse: [Lovable Project](https://lovable.dev/projects/ef29c0ac-99d9-4af9-9df8-4e4f8a33f422)
-2. Clique em "GitHub" no canto superior direito
-3. Siga as instruções para conectar com seu GitHub
-4. Clone o repositório criado
-
-#### Opção B: Download Direto
+#### Opção A: Download Direto
 1. Baixe o código fonte do projeto
 2. Extraia os arquivos em uma pasta de sua escolha
 
