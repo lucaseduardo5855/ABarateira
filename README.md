@@ -1,6 +1,8 @@
 
 # Sistema de Gestão Farmácia Barateira
 
+Projeto Realizado na Universidade por 3 desenvolvedores.
+
 Sistema completo de gestão para farmácias desenvolvido com React, TypeScript, Tailwind CSS e Supabase.
 
 ## 📋 Funcionalidades
